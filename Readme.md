@@ -1,2 +1,2 @@
 my first git writing 
-i added css styles and one line in html and css 
+i added css styles and one line in html and css
